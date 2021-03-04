@@ -1,4 +1,4 @@
-# Lista 2 - Języki programowania wysokiego poziomu
+# Lista 3 - Języki programowania wysokiego poziomu
 
 **Python (3) - Pętle II**
 
