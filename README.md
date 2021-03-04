@@ -3,6 +3,7 @@
 **Python (3) - Pętle II**
 
 (Dwa pierwsze zadania jeśli nie były wcześniej zrobione)
+
 (1) Użytkownik wprowadza liczbę n. Program wyświetla czy n jest liczbą
 pierwszą czy złożoną (wsk. trzeba sprawdzić czy dla jakiegoś k, 2 ¬ k ¬ n−1,
 k dzieli n). Przetestuj dla kilku wartości.
